@@ -1,0 +1,14 @@
+Package: com.khuongvip8888.chungtuanchinadc1
+Name: Chung Tuan DC1
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Filename: ./debs/chungtuanchina.deb
+SHA1:fd9f9e8ad723f1119a425e5b30b68be8a5c28316
+SHA256:14d7d1cf41e5058fe0da2619409f9395335c82ddf881541b28aa63007f2cffae
+Size:99746
+MD5sum:eaf001f15bcfa9850f6bcb51d0d73290
+Description: Ví của làng game vip nhất hệ mặt trời
+Section: Tweaks
+Maintainer: Đỗ Chung <chungvip@gmail.com>
+Author: Đỗ Chung
+
