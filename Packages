@@ -3,10 +3,11 @@ Name: Chung Tuan DC1
 Version: 1.0.1-1
 Architecture: iphoneos-arm
 Filename: ./debs/chungtuanchinadc1.deb
-SHA1:fd9f9e8ad723f1119a425e5b30b68be8a5c28316
-SHA256:14d7d1cf41e5058fe0da2619409f9395335c82ddf881541b28aa63007f2cffae
-Size:99746
-MD5sum:eaf001f15bcfa9850f6bcb51d0d73290
+SHA1:161206fd01e3d2cef410f8ac851842871e284d51
+SHA256:e5113c05dde668c289204bdfff6bfa56d17e15cf5daf1ec73ccc665d5b76a571
+Size:99764
+MD5sum:14be83bcecb422ef20373781a0bffac5
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Description: Ví của làng game vip nhất hệ mặt trời
 Section: Tweaks
 Maintainer: Đỗ Chung <chungvip@gmail.com>
@@ -17,12 +18,42 @@ Name: Chung DC3
 Version: 1.0.2-22
 Architecture: iphoneos-arm
 Filename: ./debs/chungtuanchinadc3.deb
-SHA1:11198b679ab9abca76b9cbd63700eb86fc3d52ab
-SHA256:c16dc288c072fd368106d23cf29607d0a53e778cd9a0b6e6c83e3bffe561507c
-Size:72388
-MD5sum:0721b0ad543038dabbc31644bf40c1a0
+SHA1:4b885f28f8336c95924f5cf74c9e5155d0a9685d
+SHA256:7b013ff6d7efa9ce33120033754672f1b53780a519cb069af5da0c73e2ef56a1
+Size:72406
+MD5sum:3d0c772f483bd5c973a83e364efc2b08
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Description: Ví của làng game vip nhất hệ mặt trời
 Section: Tweaks
 Maintainer: Đỗ Chung <chungvip@gmail.com>
 Author: Đỗ Chung
 
+Package: com.dochungvip.vinapdochung
+Name: Ví Nạp Đỗ Chung
+Version: 2.1
+Architecture: iphoneos-arm
+Filename: ./debs/vinapdochung.deb
+SHA1:8b48d0e5fd8d2025446a6797e8b1b0a45ce9b2dd
+SHA256:70958dcdbaa282878feb6af4e93f6ff9bc9f080f80ed3b178097121c5d46dd56
+Size:130278
+MD5sum:361a1172c7fabbeb139876e61fbda74c
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Description: Ví của làng game vip nhất hệ mặt trời
+Section: System
+Maintainer: Đỗ Chung <chungvip@gmail.com>
+Author: Đỗ Chung
+
+Package: com.dochungvip.xadochung
+Name: Ví Xả Đỗ Chung
+Version: 2.1
+Architecture: iphoneos-arm
+Filename: ./debs/xadochung.deb
+SHA1:9fcb75430597f563c7dc4ff2dcafc482bdc8840e
+SHA256:909f5ee9cf727e50736d9bd4176dcc6c50f73b2688f320b5c5218c384036aa7f
+Size:119304
+MD5sum:5c9e9b3405184d6a4265bb62984e4b86
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Description: Ví của làng game vip nhất hệ mặt trời
+Section: System
+Maintainer: Đỗ Chung <chungvip@gmail.com>
+Author: Đỗ Chung
