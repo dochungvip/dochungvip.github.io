@@ -1,4 +1,4 @@
-Package: com.khuongvip8888.chungtuanchinadc1
+Package: com.dochungvip.chungtuanchinadc1
 Name: Chung Tuan DC1
 Version: 1.0.1-1
 Architecture: iphoneos-arm
@@ -12,7 +12,7 @@ Section: Tweaks
 Maintainer: Đỗ Chung <chungvip@gmail.com>
 Author: Đỗ Chung
 
-Package: com.khuongvip8888.chungtuanchinadc3
+Package: com.dochungvip.chungtuanchinadc3
 Name: Chung DC3
 Version: 1.0.2-22
 Architecture: iphoneos-arm
