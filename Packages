@@ -57,3 +57,18 @@ Description: Ví của làng game vip nhất hệ mặt trời
 Section: System
 Maintainer: Đỗ Chung <chungvip@gmail.com>
 Author: Đỗ Chung
+
+Package: com.dochungvip.hpfaketweak
+Name: hpfaketweak
+Version: 2.0
+Architecture: iphoneos-arm
+Filename: ./debs/hpfaketweak.deb
+SHA1:b6e947d9b2cb99fcc960f54fc308460360c9344f
+SHA256:41f6055ee4767daa6eb025689b56d2684d9516b4cc3d0be7dc5ec287257e4aa8
+Size:85776
+MD5sum:586636a60914e2cd51310cff85ac253e
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Description: Ví của làng game vip nhất hệ mặt trời
+Section: Tweak
+Maintainer: Đỗ Chung <chungvip@gmail.com>
+Author: Đỗ Chung
