@@ -72,3 +72,18 @@ Description: Ví của làng game vip nhất hệ mặt trời
 Section: Tweak
 Maintainer: Đỗ Chung <chungvip@gmail.com>
 Author: Đỗ Chung
+
+Package: com.dochungvip.chunglongzi
+Name: Chung Longzi
+Version: 0.2-10
+Architecture: iphoneos-arm
+Filename: ./debs/chunglongzi.deb
+SHA1:dedc42ca183ea0dc5e7c9f143416bbe41af68eae
+SHA256:5aaddd3261776c8cb20fba3a64e54771f0190c57c7e3577b16d4a3ce06a713cd
+Size:1630838
+MD5sum:ea7845ca92d5a9b598115e7306018fcb
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Description: Ví của làng game vip nhất hệ mặt trời
+Section: System
+Maintainer: Đỗ Chung <chungvip@gmail.com>
+Author: Đỗ Chung
