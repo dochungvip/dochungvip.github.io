@@ -87,3 +87,19 @@ Description: Ví của làng game vip nhất hệ mặt trời
 Section: System
 Maintainer: Đỗ Chung <chungvip@gmail.com>
 Author: Đỗ Chung
+
+Package: com.dochungvip.chungruku
+Name: Chung Ruku
+Version: 0.9-1
+Architecture: iphoneos-arm
+Filename: ./debs/chungruku.deb
+SHA1:1078a0a77cd422642f2029645063984f4917c455
+SHA256:e1b60b1645f39e4b5f3a3569efc14501d140fc2b425252c098f1518c52d266ed
+Size:1235128
+MD5sum:1082de58166a16bdaecf80b46994b64c
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Description: Ví của làng game vip nhất hệ mặt trời
+Section: System
+Maintainer: Đỗ Chung <chungvip@gmail.com>
+Author: Đỗ Chung
+Icon: ms.png
