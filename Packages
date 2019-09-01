@@ -74,3 +74,51 @@ Section: System
 Maintainer: Đỗ Chung <chungvip@gmail.com>
 Author: Đỗ Chung
 Icon: ms.png
+
+Package: com.dochungvip.chunghk112
+Name: Chung HK112
+Version: 0.9-1
+Architecture: iphoneos-arm
+Filename: ./debs/chunghk112.deb
+SHA1:e9b37386f86e0bfc926debca8e6cee22460fe60e
+SHA256:0a2a9f2d67346761f9ec373be7e2d348e9fbb82a8bb66dd7d5f0e981a0fd9637
+Size:1238154
+MD5sum:b8152dbac77fce07a064e09e55155f1b
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Description: Ví của làng game vip nhất hệ mặt trời
+Section: System
+Maintainer: Đỗ Chung <chungvip@gmail.com>
+Author: Đỗ Chung
+Icon: ms.png
+
+Package: com.dochungvip.chunggobiln
+Name: Chung gobiln
+Version: 1.1.0
+Architecture: iphoneos-arm
+Filename: ./debs/chunghk112.deb
+SHA1:c7c3a5c5090a894857eb5f1c143da12ddec2de2c
+SHA256:e652d7999c2f0968246ff3809fb128f63efa4c84a3d4515cb5138a06c7fae4e3
+Size:310170
+MD5sum:bed093e2d85ccb8ff1075efd02ef90f7
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Description: Ví của làng game vip nhất hệ mặt trời
+Section: System
+Maintainer: Đỗ Chung <chungvip@gmail.com>
+Author: Đỗ Chung
+Icon: file:///Applications/Cydia.app/Sections/系统.png
+
+Package: com.dochungvip.chung666ruku1
+Name: Chung666 ruku1
+Version: 0.9-1
+Architecture: iphoneos-arm
+Filename: ./debs/chung666ruku1.debb
+SHA1:23cb1bd6975328d632e42a223294f1d44972b6ab
+SHA256:60526c05575bb93f015ac0cb1e8dc31df571664e6f354a7a8c37e27a80266faa
+Size:1247130
+MD5sum:804371836d223935a1406489c2101975
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Description: Ví của làng game vip nhất hệ mặt trời
+Section: System
+Maintainer: Đỗ Chung <chungvip@gmail.com>
+Author: Đỗ Chung
+Icon: file:///Applications/Cydia.app/Sections/System.png
