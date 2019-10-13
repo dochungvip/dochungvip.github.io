@@ -122,3 +122,18 @@ Section: System
 Maintainer: Đỗ Chung <chungvip@gmail.com>
 Author: Đỗ Chung
 Icon: file:///Applications/Cydia.app/Sections/System.png
+
+Package: com.dochungvip.chung1912ok
+Name: Chung 1912ok
+Version: 2.0.1
+Architecture: iphoneos-arm
+Filename: ./debs/chung1912ok.debb
+SHA1:0b94c34bc5ca546e4da71cb21f09fbd68c981325
+SHA256:90bfb78a6228df2c8f6c5cb897f6703afb7007e9e372bbdf6094f4dc66e29021
+Size:1329612
+MD5sum:20e640fe7d565c9df131c7f67394d514
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Description: Ví của làng game vip nhất hệ mặt trời
+Section: System
+Maintainer: Đỗ Chung <chungvip@gmail.com>
+Author: Đỗ Chung
