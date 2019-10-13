@@ -111,7 +111,7 @@ Package: com.dochungvip.chung666ruku1
 Name: Chung666 ruku1
 Version: 0.9-1
 Architecture: iphoneos-arm
-Filename: ./debs/chung666ruku1.debb
+Filename: ./debs/chung666ruku1.deb
 SHA1:23cb1bd6975328d632e42a223294f1d44972b6ab
 SHA256:60526c05575bb93f015ac0cb1e8dc31df571664e6f354a7a8c37e27a80266faa
 Size:1247130
@@ -127,7 +127,7 @@ Package: com.dochungvip.chung1912ok
 Name: Chung 1912ok
 Version: 2.0.1
 Architecture: iphoneos-arm
-Filename: ./debs/chung1912ok.debb
+Filename: ./debs/chung1912ok.deb
 SHA1:0b94c34bc5ca546e4da71cb21f09fbd68c981325
 SHA256:90bfb78a6228df2c8f6c5cb897f6703afb7007e9e372bbdf6094f4dc66e29021
 Size:1329612
