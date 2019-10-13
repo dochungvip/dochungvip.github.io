@@ -125,15 +125,23 @@ Icon: file:///Applications/Cydia.app/Sections/System.png
 
 Package: com.dochungvip.chung1912ok
 Name: Chung 1912ok
-Version: 2.0.1
+Version: 2.0.4
 Architecture: iphoneos-arm
 Filename: ./debs/chung1912ok.deb
-SHA1:0b94c34bc5ca546e4da71cb21f09fbd68c981325
-SHA256:90bfb78a6228df2c8f6c5cb897f6703afb7007e9e372bbdf6094f4dc66e29021
-Size:1329612
-MD5sum:20e640fe7d565c9df131c7f67394d514
-Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
-Description: Ví của làng game vip nhất hệ mặt trời
+MD5sum:a4e7de732659fbdebb1a361f66bc194b
+SHA1:f8e206c7d029acc85989377aa70c20e6f23ecb71
+SHA256:c57eed209ca3ddc5ced44ff0ea8ffed46222a77c24ce040ae28ce5b8c4e5df27
+Size:1329626
+Description: 
 Section: System
-Maintainer: Đỗ Chung <chungvip@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
 Author: Đỗ Chung
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: 
+Icon: 
