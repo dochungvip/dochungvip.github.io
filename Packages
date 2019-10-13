@@ -95,7 +95,7 @@ Package: com.dochungvip.chunggobiln
 Name: Chung gobiln
 Version: 1.1.0
 Architecture: iphoneos-arm
-Filename: ./debs/chunghk112.deb
+Filename: ./debs/chunggobiln.deb
 SHA1:c7c3a5c5090a894857eb5f1c143da12ddec2de2c
 SHA256:e652d7999c2f0968246ff3809fb128f63efa4c84a3d4515cb5138a06c7fae4e3
 Size:310170
